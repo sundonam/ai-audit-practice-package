@@ -1,0 +1,13 @@
+﻿timestamp,user_id,action,target_file,src_ip
+2026-03-05 09:00:00,hong.a,OPEN,contract_final_v3.docx,192.168.0.20
+2026-03-05 09:37:00,hong.a,OPEN,계약서_최종(진짜최종).docx,192.168.0.21
+2026-03-05 10:14:00,kim.b,DOWNLOAD,settlement_Q1.xlsx,192.168.0.22
+2026-03-05 10:51:00,hong.a,EDIT,점검표.xlsx,192.168.0.23
+2026-03-05 11:28:00,lee.c,OPEN,계약서_최종본_최종.docx,192.168.0.24
+2026-03-05 12:05:00,kim.b,COPY,vendor_master_new.xlsx,192.168.0.25
+2026-03-05 12:42:00,hong.a,OPEN,invoice_2026_03.xlsx,192.168.0.26
+2026-03-05 13:19:00,admin,DELETE,vendor_master_temp.xlsx,192.168.0.27
+2026-03-05 13:56:00,lee.c,PRINT,회의록_20260305.docx,192.168.0.28
+2026-03-05 14:33:00,hong.a,OPEN,스캔문서.pdf,192.168.0.29
+
+본 자료는 실습용 가상 데이터이며 실재 인물·기관·거래와 무관하다.
